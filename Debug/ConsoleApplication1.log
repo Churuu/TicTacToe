@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\rossi\source\repos\ConsoleApplication1\Game.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rossi\source\repos\ConsoleApplication1\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConsoleApplication1.vcxproj -> C:\Users\rossi\source\repos\ConsoleApplication1\Debug\TreIRad.exe
